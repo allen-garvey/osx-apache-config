@@ -10,6 +10,7 @@
 fe80::1%lo0	localhost
 
 127.0.0.1	booklist.local
+127.0.0.1	block-quote-2.local
 
 # Adobe Blocker
 127.0.0.1 lmlicenses.wip4.adobe.com
